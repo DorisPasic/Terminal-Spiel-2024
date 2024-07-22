@@ -1,1 +1,1 @@
-# Terminal-Spiel-2024
+# Terminal-Spiel
