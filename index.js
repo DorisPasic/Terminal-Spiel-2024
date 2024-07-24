@@ -160,3 +160,4 @@ console.log(`Du hast das (aktuelle) Spielende mit ${punkte} Punkten erreicht �
 // Logik fürs Spielende
 /* if (punkte >= 20) {console.log(`\nHerzlichen Glückwunsch, du hast ${punkte} Punkte gesammelt! 🥳
 Gut gemacht 💪`)} */
+     
