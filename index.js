@@ -111,7 +111,7 @@ Möchtest du mit mir in mein Reich kommen?"
         `Gute Entscheidung, du kannst unter Wasser ja gar nicht atmen! Dafür erhältst du 5 Punkte. Deine Gesamtpunktzahl beträgt ${punkte} Punkte.`
       );
   }
-
+     
 console.log(`Das war ein böser Trick dieser Najade. 
 Vom Turm kommt plötzlich ein lautes Brausen und du siehst, dass menschliche Gestalten um den leuchtenden Turm fliegen.
 Es scheint, als ob sie gegen etwas Dunkles im Turm kämpfen...`)
