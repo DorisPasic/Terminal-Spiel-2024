@@ -1,4 +1,5 @@
 import readLineSync from "readline-sync";
+// Siehe while-übung im JavaScript Ordner in den eigenen Übungen!
 
 // Spielername abfragen; const: alle Daten, die sich nicht mehr ändern. Wenn doch: let.
 const spielername = readLineSync.question(`Wie ist dein Name?\n`);
@@ -14,7 +15,7 @@ Je nach dem, welchen Gegenstand du wählst, erhältst oder verlierst du Punkte.
 Bei jeder Auswahl werden dir jeweils 2 Punkte abgezogen.
 Ziel ist es, am Ende mindestens 20 Punkte erspielt zu haben!
 
-Viel Spaß 🥳
+Viel Spaß! 🥳
 `);
 
 let choice =
